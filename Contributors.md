@@ -650,6 +650,8 @@ Mohamed Farah
 - [Baloghlan Gasimov - i am here too](https://github.com/BaloghlanGasimov)
 - [Naheel]
 - [Emre Arikan]
+- [Anshika Sharma](https://github.com/anshika0021)
+
 - [RicardoYan](https://github.com/ricardoaugusto31)
 -[Abyss Tempest](https://github.com/P116gif)
 - [Avinash Singh](https://github.com/avinashs1ngh)
